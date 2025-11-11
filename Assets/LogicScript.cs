@@ -19,7 +19,7 @@ public class LogicScript : MonoBehaviour
 
     public void restartGame()
     {
-        Time.timeScale = 1;
+        Time.timeScale = 1f;
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
     public void gameOver()
