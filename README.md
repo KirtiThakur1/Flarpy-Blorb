@@ -1,4 +1,4 @@
-##Flappy Bird (Unity 2D)
+## Flappy Bird (Unity 2D)
 
 **Flappy Bird** is a **2D mini-game** created in **Unity**.  
 I aimed to design a simple yet fully functional game, and throughout the process, I learned many fundamental concepts that form the backbone of Unity game development.  
